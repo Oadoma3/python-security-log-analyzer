@@ -1,0 +1,3 @@
+ip,failed_attempts,suspicious,threshold,log_file
+203.0.113.10,7,FALSE,10,sample_auth.log
+198.51.100.22,1,FALSE,10,sample_auth.log
