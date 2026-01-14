@@ -8,6 +8,7 @@ A Python tool that parses authentication logs and flags suspicious activity (e.g
 - Counts failed login attempts
 - Identifies top offending IP addresses
 - Outputs a summary report (terminal)
+- Example output is provided in report.csv
 
 ## Tech
 - Python 3
