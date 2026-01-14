@@ -18,4 +18,5 @@ A Python tool that parses authentication logs and flags suspicious activity (e.g
 2. Add a log file to the project folder (example: `auth.log`)
 3. Run:
    ```bash
-   python analyzer.py auth.log
+   python analyzer.py sample_auth.log
+
